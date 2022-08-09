@@ -12,6 +12,10 @@
 
 [https://youtu.be/mVvIpN_Tkz4](https://youtu.be/mVvIpN_Tkz4)（需要翻墙观看）
 
+## 注意
+
+请提前给jshook设置悬浮窗权限，且保持运行状态，否则mod菜单无法显示，jshook关闭后功能会继续生效不受影响，只是悬浮菜单会关闭
+
 ## 截图
 
 [http://article.biliimg.com/bfs/article/fdd8dafc9141217567e050f3d8be9878408ff907.jpg](http://article.biliimg.com/bfs/article/fdd8dafc9141217567e050f3d8be9878408ff907.jpg)
