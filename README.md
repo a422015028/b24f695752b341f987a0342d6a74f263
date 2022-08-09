@@ -16,6 +16,10 @@
 
 请提前给jshook设置悬浮窗权限，且保持运行状态，否则mod菜单无法显示，jshook关闭后功能会继续生效不受影响，只是悬浮菜单会关闭
 
+如果你使用的是lsp框架，除了勾选系统框架激活，还需要勾选需要启用服务的app，只有勾选系统框架手机才需要重启，其他app不需要重启
+
+lsp勾选看不到游戏？在右上角的过滤中关闭对游戏app的过滤即可显示勾选
+
 ## 截图
 
 [http://article.biliimg.com/bfs/article/fdd8dafc9141217567e050f3d8be9878408ff907.jpg](http://article.biliimg.com/bfs/article/fdd8dafc9141217567e050f3d8be9878408ff907.jpg)
