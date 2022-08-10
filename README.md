@@ -18,6 +18,9 @@
 
 如果你使用的是lsp框架，除了勾选系统框架激活，还需要勾选需要启用服务的app，只有勾选系统框架手机才需要重启，其他app不需要重启
 
+如果你所有的操作都做对了，最后打开游戏连注入提示都没有，访问下面这个链接，手动下载frida-mod的包，进入jshook框架管理点击右上角新建框架，选择第二个选项导入这个mod包，在选择这个自定义框架进入游戏就可以了
+[https://github.com/etjson/download/releases/tag/files](https://github.com/etjson/download/releases/tag/files)
+
 lsp勾选看不到游戏？在右上角的过滤中关闭对游戏app的过滤即可显示勾选
 
 ## 截图
